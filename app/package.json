@@ -1,0 +1,18 @@
+{
+    "name": "docker-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "guopi <hszy00232@163.com> (http://geekfe.com)",
+    "license": "ISC",
+    "devDependencies": {
+        "express": "^4.16.2",
+        "http": "0.0.0",
+        "mocha": "^5.0.0",
+        "redis": "^2.8.0"
+    }
+}
